@@ -31,7 +31,7 @@ int main() {
     printf("N ");
   else
     printf("%d ", count[0]);
-  if (count[1] == 0)
+  if (a2 == 0)
     printf("N ");
   else
     printf("%d ", count[1]);
@@ -42,7 +42,7 @@ int main() {
   if (count[3] == 0)
     printf("N ");
   else
-    printf("%.1f ", (double)count[3] / a4);
+    printf("%.1f ", (float)count[3] / a4);
   if (count[4] == 0)
     printf("N");
   else
