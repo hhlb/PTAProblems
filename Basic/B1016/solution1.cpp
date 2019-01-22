@@ -7,12 +7,14 @@ int main() {
   while (a != 0) {
     if (a % 10 == da) {
       pa = pa * 10 + da;
-      a /= 10;
     }
+    a /= 10;
+  }
+  while (b != 0) {
     if (b % 10 == db) {
       pb = pb * 10 + db;
-      b /= 10;
     }
+    b /= 10;
   }
   printf("%lld\n", pa + pb);
   return 0;
