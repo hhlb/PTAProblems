@@ -8,12 +8,12 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1003
 - [ ] A1004
 - [ ] A1005
-- [ ] A1006
+- [x] A1006
 - [ ] A1007
 - [ ] A1008
 - [x] A1009
 - [ ] A1010
-- [ ] A1011
+- [x] A1011
 - [ ] A1012
 - [ ] A1013
 - [ ] A1014
@@ -38,7 +38,7 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1033
 - [ ] A1034
 - [ ] A1035
-- [ ] A1036
+- [x] A1036
 - [ ] A1037
 - [ ] A1038
 - [ ] A1039
