@@ -164,7 +164,7 @@ My solutions of PTA basic/advanced level problems.
 - [x] B1001
 - [ ] B1002
 - [ ] B1003
-- [ ] B1004
+- [x] B1004
 - [ ] B1005
 - [ ] B1006
 - [ ] B1007
@@ -188,11 +188,11 @@ My solutions of PTA basic/advanced level problems.
 - [ ] B1025
 - [x] B1026
 - [ ] B1027
-- [ ] B1028
+- [x] B1028
 - [ ] B1029
 - [ ] B1030
 - [ ] B1031
-- [ ] B1032
+- [x] B1032
 - [ ] B1033
 - [ ] B1034
 - [ ] B1035
@@ -201,7 +201,7 @@ My solutions of PTA basic/advanced level problems.
 - [ ] B1038
 - [ ] B1039
 - [ ] B1040
-- [ ] B1041
+- [x] B1041
 - [ ] B1042
 - [ ] B1043
 - [ ] B1044
