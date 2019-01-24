@@ -33,7 +33,7 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1028
 - [ ] A1029
 - [ ] A1030
-- [ ] A1031
+- [x] A1031
 - [ ] A1032
 - [ ] A1033
 - [ ] A1034
@@ -187,7 +187,7 @@ My solutions of PTA basic/advanced level problems.
 - [ ] B1024
 - [ ] B1025
 - [x] B1026
-- [ ] B1027
+- [x] B1027
 - [x] B1028
 - [ ] B1029
 - [ ] B1030
@@ -196,7 +196,7 @@ My solutions of PTA basic/advanced level problems.
 - [ ] B1033
 - [ ] B1034
 - [ ] B1035
-- [ ] B1036
+- [x] B1036
 - [ ] B1037
 - [ ] B1038
 - [ ] B1039
