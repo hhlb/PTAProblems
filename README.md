@@ -14,11 +14,11 @@ My solutions of PTA basic/advanced level problems.
 - [x] A1009
 - [ ] A1010
 - [x] A1011
-- [ ] A1012
+- [x] A1012
 - [ ] A1013
 - [ ] A1014
 - [ ] A1015
-- [ ] A1016
+- [x] A1016
 - [ ] A1017
 - [ ] A1018
 - [x] A1019
@@ -27,10 +27,10 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1022
 - [ ] A1023
 - [ ] A1024
-- [ ] A1025
+- [x] A1025
 - [ ] A1026
 - [x] A1027
-- [ ] A1028
+- [x] A1028
 - [ ] A1029
 - [ ] A1030
 - [x] A1031
@@ -57,14 +57,14 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1052
 - [ ] A1053
 - [ ] A1054
-- [ ] A1055
+- [x] A1055
 - [ ] A1056
 - [ ] A1057
 - [x] A1058
 - [ ] A1059
 - [ ] A1060
 - [x] A1061
-- [ ] A1062
+- [x] A1062
 - [ ] A1063
 - [ ] A1064
 - [x] A1065
@@ -175,7 +175,7 @@ My solutions of PTA basic/advanced level problems.
 - [x] B1012
 - [ ] B1013
 - [x] B1014
-- [ ] B1015
+- [x] B1015
 - [x] B1016
 - [ ] B1017
 - [x] B1018
