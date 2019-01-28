@@ -41,7 +41,5 @@ int main() {
   for (int i = 0; i < num; ++i) {
     printf("%s %s %d\n", st[i].id, st[i].name, st[i].s);
   }
-  getchar();
-  getchar();
   return 0;
 }

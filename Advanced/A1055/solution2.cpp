@@ -46,7 +46,5 @@ int main() {
       printf("None\n");
     }
   }
-  getchar();
-  getchar();
   return 0;
 }

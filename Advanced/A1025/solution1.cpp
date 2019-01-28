@@ -50,7 +50,5 @@ int main() {
   for (int i = 0; i < t; ++i) {
     printf("%s %d %d %d\n", s[i].id, s[i].fr,s[i].l,s[i].lr);
   }
-  getchar();
-  getchar();
   return 0;
 }
