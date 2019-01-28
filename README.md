@@ -77,15 +77,15 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1072
 - [x] A1073
 - [ ] A1074
-- [ ] A1075
+- [x] A1075
 - [ ] A1076
 - [x] A1077
 - [ ] A1078
 - [ ] A1079
-- [ ] A1080
+- [x] A1080
 - [ ] A1081
 - [x] A1082
-- [ ] A1083
+- [x] A1083
 - [ ] A1084
 - [ ] A1085
 - [ ] A1086
@@ -97,7 +97,7 @@ My solutions of PTA basic/advanced level problems.
 - [ ] A1092
 - [ ] A1093
 - [ ] A1094
-- [ ] A1095
+- [x] A1095
 - [ ] A1096
 - [ ] A1097
 - [ ] A1098
