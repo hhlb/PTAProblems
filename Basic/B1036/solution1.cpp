@@ -21,20 +21,6 @@ int main() {
     }
     printf("%c\n", b);
   }
-  // for (int i = 0; i < (a - 2) * 2 + 1; ++i) {
-  //   if (i % 2 == 0) {
-  //     for (int j = 0; j < c; ++j) {
-  //       printf(" ");
-  //     }
-  //     printf("\n");
-  //   } else {
-  //     printf("%c", b);
-  //     for (int j = 0; j < c - 2; ++j) {
-  //       printf(" ");
-  //     }
-  //     printf("%c\n", b);
-  //   }
-  // }
   for (int i = 0; i < c; ++i) {
     printf("%c", b);
   }
