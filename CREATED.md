@@ -47,16 +47,16 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [ ] A1038
 - [ ] A1039
 - [ ] A1040
-- [ ] A1041
+- [x] A1041
 - [x] A1042
 - [ ] A1043
 - [ ] A1044
 - [ ] A1045
 - [x] A1046
 - [ ] A1047
-- [ ] A1048
+- [x] A1048
 - [ ] A1049
-- [ ] A1050
+- [x] A1050
 - [ ] A1051
 - [ ] A1052
 - [ ] A1053
@@ -90,7 +90,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [ ] A1081
 - [x] A1082
 - [x] A1083
-- [ ] A1084
+- [x] A1084
 - [ ] A1085
 - [ ] A1086
 - [ ] A1087
@@ -98,7 +98,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [ ] A1089
 - [ ] A1090
 - [ ] A1091
-- [ ] A1092
+- [x] A1092
 - [ ] A1093
 - [ ] A1094
 - [x] A1095
@@ -169,7 +169,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [x] B1002
 - [ ] B1003
 - [x] B1004
-- [ ] B1005
+- [x] B1005
 - [x] B1006
 - [ ] B1007
 - [x] B1008
@@ -193,25 +193,25 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [x] B1026
 - [x] B1027
 - [x] B1028
-- [ ] B1029
+- [x] B1029
 - [ ] B1030
 - [x] B1031
 - [x] B1032
-- [ ] B1033
+- [x] B1033
 - [ ] B1034
 - [ ] B1035
 - [x] B1036
 - [x] B1037
-- [ ] B1038
-- [ ] B1039
+- [x] B1038
+- [x] B1039
 - [ ] B1040
 - [x] B1041
-- [ ] B1042
-- [ ] B1043
+- [x] B1042
+- [x] B1043
 - [ ] B1044
 - [ ] B1045
 - [x] B1046
-- [ ] B1047
+- [x] B1047
 - [x] B1048
 - [ ] B1049
 - [ ] B1050
