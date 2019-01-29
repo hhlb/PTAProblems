@@ -70,7 +70,5 @@ int main() {
     }
     printf("\n");
   }
-  getchar();
-  getchar();
   return 0;
 }
