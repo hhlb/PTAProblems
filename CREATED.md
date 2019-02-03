@@ -50,7 +50,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [x] A1041
 - [x] A1042
 - [ ] A1043
-- [ ] A1044
+- [x] A1044
 - [ ] A1045
 - [x] A1046
 - [ ] A1047
