@@ -1,14 +1,26 @@
 /**
- * The type of data is significant for this problem.
- * 1) at line 12 (i * (n + 1 - i) * a) is wrong
- *    because the first two ops make the sum have wrong precision,
- *    the sum would has the size of int or float instead of double.
- *    make (a * ...) become the first op to guarantee the precision.
- * 2) the input/output of double data
- *    use cin or scanf("%lf") because the %lf and %f are different for scanf
- *    but you'd better use %f for printf.
- *    For C++, printf("%f") and printf("%lf") have no differences and even the %lf is wrong.
- *    The system will fix that when the executing task begins.
+ * ## The data type for A1104/B1049 is significant
+
+ * - [The effect of computing order on data types](#the-effect-of-computing-order-on-data-types)
+ * - [The input method for doubles](#the-input-method-for-doubles)
+ *
+ * ### The effect of computing order on data types
+ * For instance 
+ * ```c++
+ * //double sum, int i, int n, int a
+ * //1
+ * sum += a * i * (n + 1 - i);
+ * //2
+ * sum += i * (n + 1 - i) * a;
+ * ```
+ * The result is different and the second can not guarantee the precision.
+ * The data type would change when it is calculating.
+ * 
+ * ### The input method for doubles
+ * Use `cin` or `printf("%lf")` to input doubles because the `%lf` and `%f` are different for `scanf()`.
+ * And use `cout` or `printf("%f")` to output that.
+ * **For C++, `printf("%f")` and `printf("%lf")` have no differences and even the %lf is wrong.
+ * *The system will fix that when the executing task begins*.**
  */
 #include <iostream>
 using namespace std;
