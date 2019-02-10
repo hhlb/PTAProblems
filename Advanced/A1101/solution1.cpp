@@ -1,6 +1,5 @@
 /**
- * We need to use array because vectors lead to Segmentation fault.
- * And print a '\n' at the end of the answers to avoid Illegal Format.
+ * Print a '\n' at the end of the answers to avoid Illegal Format.
  */
 #include <algorithm>
 #include <iostream>
@@ -21,9 +20,9 @@ int main() {
     les[i] = true;
     beg[i] = true;
   }
-  // vector<int> numbers(0, n);
-  // vector<bool> les(true, n);
-  // vector<bool> beg(true, n);
+  // vector<int> numbers(n, 0);
+  // vector<bool> les(n, true);
+  // vector<bool> beg(n, true);
   vector<int> ans;
   for (int i = 0; i < n; ++i) {
     scanf("%d", &numbers[i]);
