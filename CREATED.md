@@ -172,7 +172,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [x] B1005
 - [x] B1006
 - [ ] B1007
-- [x] B1008
+- [x] B1008 ***solution3 Need review***
 - [x] B1009
 - [x] B1010
 - [x] B1011
