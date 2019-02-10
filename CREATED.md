@@ -2,7 +2,7 @@
 
 Here are the list of advanced/basic PTA problems and some of them had been created.
 
- - [Advanced level](#advanced-level) ***48/155***
+ - [Advanced level](#advanced-level) ***50/155***
  - [Basic level](#basic-level) ***43/95***
 
 ## Advanced level
@@ -14,7 +14,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [x] A1005
 - [x] A1006
 - [ ] A1007
-- [ ] A1008
+- [x] A1008
 - [x] A1009
 - [x] A1010 ***Need review***
 - [x] A1011
@@ -55,7 +55,7 @@ Here are the list of advanced/basic PTA problems and some of them had been creat
 - [x] A1046
 - [ ] A1047
 - [x] A1048
-- [ ] A1049
+- [x] A1049 ***Need review***
 - [x] A1050
 - [ ] A1051
 - [ ] A1052
